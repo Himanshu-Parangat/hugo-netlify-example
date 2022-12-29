@@ -1,0 +1,4 @@
+baseURL = 'http://blog-template-hugo.org/'
+languageCode = 'en-us'
+title = 'blog-template-hugo-title'
+theme = 'ananke'
